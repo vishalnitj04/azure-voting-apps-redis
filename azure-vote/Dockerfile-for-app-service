@@ -22,4 +22,4 @@ ENV PATH ${PATH}:/home/site/wwwroot
 # Also see: http://blog.trifork.com/2014/03/11/using-supervisor-with-docker-to-manage-processes-supporting-image-inheritance/
 CMD ["/usr/bin/supervisord"]
 # Vishal
-
+CMD ["/usr/bin/supervisord"]
